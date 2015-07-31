@@ -161,7 +161,7 @@
 				<key>displayName</key>
 				<string>CCBFile</string>
 				<key>memberVarAssignmentName</key>
-				<string></string>
+				<string>grid</string>
 				<key>memberVarAssignmentType</key>
 				<integer>1</integer>
 				<key>properties</key>
@@ -359,7 +359,7 @@
 												<key>displayName</key>
 												<string>CCLabelTTF</string>
 												<key>memberVarAssignmentName</key>
-												<string></string>
+												<string>generationLabel</string>
 												<key>memberVarAssignmentType</key>
 												<integer>1</integer>
 												<key>properties</key>
@@ -1006,8 +1006,6 @@
 														</array>
 													</dict>
 												</array>
-												<key>selected</key>
-												<true/>
 											</dict>
 											<dict>
 												<key>UUID</key>
@@ -1479,7 +1477,7 @@
 										<string>Block</string>
 										<key>value</key>
 										<array>
-											<string></string>
+											<string>pause</string>
 											<integer>1</integer>
 										</array>
 									</dict>
@@ -1734,6 +1732,8 @@
 										</array>
 									</dict>
 								</array>
+								<key>selected</key>
+								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1805,7 +1805,7 @@
 										<string>Block</string>
 										<key>value</key>
 										<array>
-											<string></string>
+											<string>play</string>
 											<integer>1</integer>
 										</array>
 									</dict>
